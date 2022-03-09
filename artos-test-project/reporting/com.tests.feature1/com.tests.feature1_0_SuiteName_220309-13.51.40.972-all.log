@@ -1,0 +1,135 @@
+[INFO ][2022-03-09_13:51:42.540][main][TestContext.java][printMendatoryInfo][General_0] - 
+
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+      ___                                                
+     / _ \                          __ _ _        
+    | |_| |__ _   _    __ _   ____  \ \ \ \       
+    |  _  |  __|_| |_ / __ \/ ____|  \ \ \ \      
+    | | | | |  |_| |_| (__) )___  \   ) ) ) )     
+    |_| |_|_|    | |_ \__ _/| ___ /  / / / /      
+    =============\__/============== (_(_(_(       
+    == Artos ==  (RELEASE v0.0.14-beta-1)                 
+                                                         
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+
+[INFO ][2022-03-09_13:51:42.547][main][TestContext.java][printMendatoryInfo][General_0] - 
+************************************ Header Start ******************************************
+Organisation_Name : <Organisation> PTY LTD
+Organisation_Country : NewZealand
+Organisation_Address : XX, Test Street, Test address
+Organisation_Phone : +64 1234567
+Organisation_Email : artos.framework@gmail.com
+Organisation_Website : www.theartos.com
+************************************ Header End ********************************************
+[DEBUG][2022-03-09_13:51:42.549][main][TestContext.java][printUsefulInfo][General_0] - 
+Test FrameWork Info
+* Artos version => 0.0.14-beta-1
+* Artos build date => 19-04-2020 07:07
+* Java Runtime Environment version => 11.0.13
+* Java Virtual Machine specification version => 11
+* Java Runtime Environment specification version => 11
+* Java class path => C:\Users\garima.bhatia\eclipse-workspace\Artos-test-project\target\test-classes;C:\Users\garima.bhatia\eclipse-workspace\Artos-test-project\target\classes;C:\Users\garima.bhatia\Downloads\jars\jna-4.1.0.jar;C:\Users\garima.bhatia\Downloads\jars\jna-platform-4.1.0.jar;C:\Users\garima.bhatia\Downloads\jars\jsch.agentproxy.connector-factory-0.0.9.jar;C:\Users\garima.bhatia\Downloads\jars\jsch.agentproxy.core-0.0.9.jar;C:\Users\garima.bhatia\Downloads\jars\jsch.agentproxy.jsch-0.0.9.jar;C:\Users\garima.bhatia\Downloads\jars\jsch.agentproxy.pageant-0.0.9.jar;C:\Users\garima.bhatia\Downloads\jars\jsch.agentproxy.sshagent-0.0.9.jar;C:\Users\garima.bhatia\Downloads\jars\jsch.agentproxy.usocket-jna-0.0.9.jar;C:\Users\garima.bhatia\Downloads\jars\jsch.agentproxy.usocket-nc-0.0.9.jar;C:\Users\garima.bhatia\Downloads\jars\jsch-0.1.44-1.0.0.jar;C:\Users\garima.bhatia\Downloads\jars\jsch-0.1.54.jar;C:\Users\garima.bhatia\Downloads\jars\jsch-extension-0.1.11.jar;C:\Users\garima.bhatia\Downloads\jars\slf4j-api-1.7.22.jar;C:\Users\garima.bhatia\.m2\repository\io\cucumber\cucumber-java\2.3.1\cucumber-java-2.3.1.jar;C:\Users\garima.bhatia\.m2\repository\io\cucumber\cucumber-core\2.3.1\cucumber-core-2.3.1.jar;C:\Users\garima.bhatia\.m2\repository\info\cukes\cucumber-html\0.2.6\cucumber-html-0.2.6.jar;C:\Users\garima.bhatia\.m2\repository\io\cucumber\cucumber-jvm-deps\1.0.6\cucumber-jvm-deps-1.0.6.jar;C:\Users\garima.bhatia\.m2\repository\io\cucumber\gherkin\5.0.0\gherkin-5.0.0.jar;C:\Users\garima.bhatia\.m2\repository\io\cucumber\tag-expressions\1.1.1\tag-expressions-1.1.1.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch\0.1.55\jsch-0.1.55.jar;C:\Users\garima.bhatia\.m2\repository\com\pastdev\jsch-extension\0.1.11\jsch-extension-0.1.11.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch.agentproxy.connector-factory\0.0.9\jsch.agentproxy.connector-factory-0.0.9.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch.agentproxy.core\0.0.9\jsch.agentproxy.core-0.0.9.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch.agentproxy.usocket-jna\0.0.9\jsch.agentproxy.usocket-jna-0.0.9.jar;C:\Users\garima.bhatia\.m2\repository\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar;C:\Users\garima.bhatia\.m2\repository\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch.agentproxy.usocket-nc\0.0.9\jsch.agentproxy.usocket-nc-0.0.9.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch.agentproxy.sshagent\0.0.9\jsch.agentproxy.sshagent-0.0.9.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch.agentproxy.pageant\0.0.9\jsch.agentproxy.pageant-0.0.9.jar;C:\Users\garima.bhatia\.m2\repository\com\jcraft\jsch.agentproxy.jsch\0.0.9\jsch.agentproxy.jsch-0.0.9.jar;C:\Users\garima.bhatia\.m2\repository\org\slf4j\slf4j-api\1.7.22\slf4j-api-1.7.22.jar;C:\Users\garima.bhatia\.m2\repository\io\rest-assured\rest-assured\3.0.0\rest-assured-3.0.0.jar;C:\Users\garima.bhatia\.m2\repository\org\codehaus\groovy\groovy\2.4.6\groovy-2.4.6.jar;C:\Users\garima.bhatia\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.6\groovy-xml-2.4.6.jar;C:\Users\garima.bhatia\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\garima.bhatia\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar;C:\Users\garima.bhatia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\garima.bhatia\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\garima.bhatia\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\garima.bhatia\.m2\repository\io\rest-assured\json-path\3.0.0\json-path-3.0.0.jar;C:\Users\garima.bhatia\.m2\repository\org\codehaus\groovy\groovy-json\2.4.6\groovy-json-2.4.6.jar;C:\Users\garima.bhatia\.m2\repository\io\rest-assured\rest-assured-common\3.0.0\rest-assured-common-3.0.0.jar;C:\Users\garima.bhatia\.m2\repository\io\rest-assured\xml-path\3.0.0\xml-path-3.0.0.jar;C:\Users\garima.bhatia\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-java\3.14.0\selenium-java-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-api\3.14.0\selenium-api-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.14.0\selenium-chrome-driver-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.14.0\selenium-edge-driver-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.14.0\selenium-firefox-driver-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.14.0\selenium-ie-driver-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.14.0\selenium-opera-driver-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.14.0\selenium-remote-driver-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.14.0\selenium-safari-driver-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\org\seleniumhq\selenium\selenium-support\3.14.0\selenium-support-3.14.0.jar;C:\Users\garima.bhatia\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\garima.bhatia\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\garima.bhatia\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\garima.bhatia\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\garima.bhatia\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\garima.bhatia\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\garima.bhatia\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\garima.bhatia\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\garima.bhatia\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\garima.bhatia\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\garima.bhatia\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\garima.bhatia\.m2\repository\com\squareup\okhttp3\okhttp\3.10.0\okhttp-3.10.0.jar;C:\Users\garima.bhatia\.m2\repository\com\squareup\okio\okio\1.14.1\okio-1.14.1.jar;C:\Users\garima.bhatia\.m2\repository\com\theartos\artos\0.0.14-beta-1\artos-0.0.14-beta-1.jar
+* List of paths to search when loading libraries => C:\Program Files\Eclipse Adoptium\jdk-11.0.13.8-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:/program files/eclipse adoptium/jdk-11.0.13.8-hotspot/bin/server;c:/program files/eclipse adoptium/jdk-11.0.13.8-hotspot/bin;c:\program files\eclipse adoptium\jdk-11.0.13.8-hotspot\bin;c:\program files\eclipse adoptium\jdk-8.0.312.7-hotspot;c:\windows;c:\windows\system32\wbem;c:\windows\system32\openssh\;c:\windows\system32;c:\program files\putty\;c:\program files (x86)\microsoft sql server\150\;c:\program files\azure data studio1c:\program files\dotnet\;c:\program files\microsoft sql server\130\toolsn\;c:\program files\microsoft sql server\client sdk\odbc\170\toolsn\;c:\program files (x86)\windows kits\8.1\;c:\program files\microsoft sql server\110\toolsn\;c:\windows\system32\windowspowershell\v1.0\;C:\Users\garima.bhatia\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\garima.bhatia\AppData\Local\Programs\Python\Python310\;C:\Users\garima.bhatia\AppData\Local\Microsoft\WindowsApps;C:\Users\garima.bhatia\OneDrive - Kiwiplan, Inc\Desktop;;.
+* Operating system name => Windows 10
+* Operating system architecture => amd64
+* Operating system version => 10.0
+* File separator ("/" on UNIX) => \
+* Path separator (":" on UNIX) => ;
+* User's account name => garima.bhatia
+* User's home directory => C:\Users\garima.bhatia
+
+[INFO ][2022-03-09_13:51:46.712][pool-3-thread-1][TestExecutionEventListener.java][beforeTestSuiteMethodExecutionStarted][General_0] - 
+=> beforeTestSuite(context)
+[INFO ][2022-03-09_13:51:46.714][pool-3-thread-1][FeatureRunner.java][beforeTestSuite][General_0] - This method executes before test suite
+[INFO ][2022-03-09_13:51:46.717][pool-3-thread-1][TestExecutionEventListener.java][testExecutionLoopCount][General_0] - 
+---------------- (Test Loop Count : 1) -------------------
+[INFO ][2022-03-09_13:51:46.719][pool-3-thread-1][TestExecutionEventListener.java][printTestPlan][General_0] - *************************************************************************
+Test Name	: com.tests.feature1.TestCase_1
+Written BY	: arpit
+Date		: 19/02/2019
+BDD Test Plan	: 
+GIVEN..
+WHEN..
+AND..
+THEN..
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.720][pool-3-thread-1][TestExecutionEventListener.java][globalBeforeTestCaseMethodExecutionStarted][General_0] - 
+=> beforeTestCase(context)
+[INFO ][2022-03-09_13:51:46.720][pool-3-thread-1][FeatureRunner.java][beforeTestCase][General_0] - This method executes before each test case
+[INFO ][2022-03-09_13:51:46.730][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Unit Name	: testUnit_1
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.730][pool-3-thread-1][TestExecutionEventListener.java][globalBeforeTestUnitMethodExecutionStarted][General_0] - 
+=> beforeTestUnit(context)
+[INFO ][2022-03-09_13:51:46.731][pool-3-thread-1][FeatureRunner.java][beforeTestUnit][General_0] - This method executes before each test unit
+[INFO ][2022-03-09_13:51:46.732][pool-3-thread-1][TestCase_1.java][testUnit_1][General_0] - fgfgf
+[INFO ][2022-03-09_13:51:46.733][pool-3-thread-1][TestExecutionEventListener.java][globalAfterTestUnitMethodExecutionStarted][General_0] - 
+=> afterTestUnit(context)
+[INFO ][2022-03-09_13:51:46.734][pool-3-thread-1][FeatureRunner.java][afterTestUnit][General_0] - This method executes after each test unit
+[INFO ][2022-03-09_13:51:46.734][pool-3-thread-1][TestContext.java][generateUnitTestSummary][General_0] - [PASS]: testUnit_1(context)
+[INFO ][2022-03-09_13:51:46.737][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Unit Name	: testUnit_2
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.738][pool-3-thread-1][TestExecutionEventListener.java][globalBeforeTestUnitMethodExecutionStarted][General_0] - 
+=> beforeTestUnit(context)
+[INFO ][2022-03-09_13:51:46.739][pool-3-thread-1][FeatureRunner.java][beforeTestUnit][General_0] - This method executes before each test unit
+[INFO ][2022-03-09_13:51:46.739][pool-3-thread-1][TestCase_1.java][testUnit_2][General_0] - fgfgf
+[INFO ][2022-03-09_13:51:46.739][pool-3-thread-1][TestExecutionEventListener.java][globalAfterTestUnitMethodExecutionStarted][General_0] - 
+=> afterTestUnit(context)
+[INFO ][2022-03-09_13:51:46.739][pool-3-thread-1][FeatureRunner.java][afterTestUnit][General_0] - This method executes after each test unit
+[INFO ][2022-03-09_13:51:46.739][pool-3-thread-1][TestContext.java][generateUnitTestSummary][General_0] - [PASS]: testUnit_2(context)
+[INFO ][2022-03-09_13:51:46.742][pool-3-thread-1][TestExecutionEventListener.java][globalAfterTestCaseMethodExecutionStarted][General_0] - 
+=> afterTestCase(context)
+[INFO ][2022-03-09_13:51:46.742][pool-3-thread-1][FeatureRunner.java][afterTestCase][General_0] - This method executes after each test case
+[INFO ][2022-03-09_13:51:46.744][pool-3-thread-1][TestContext.java][generateTestSummary][General_0] - 
+Test Result : PASS
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.747][pool-3-thread-1][TestExecutionEventListener.java][printTestPlan][General_0] - *************************************************************************
+Test Name	: com.tests.feature1.TestCase_2
+Written BY	: user
+Date		: 12/02/2019
+BDD Test Plan	: 
+GIVEN..
+WHEN..
+AND..
+THEN..
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.748][pool-3-thread-1][TestExecutionEventListener.java][globalBeforeTestCaseMethodExecutionStarted][General_0] - 
+=> beforeTestCase(context)
+[INFO ][2022-03-09_13:51:46.749][pool-3-thread-1][FeatureRunner.java][beforeTestCase][General_0] - This method executes before each test case
+[INFO ][2022-03-09_13:51:46.749][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Unit Name	: testUnit_1
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.751][pool-3-thread-1][TestExecutionEventListener.java][globalBeforeTestUnitMethodExecutionStarted][General_0] - 
+=> beforeTestUnit(context)
+[INFO ][2022-03-09_13:51:46.751][pool-3-thread-1][FeatureRunner.java][beforeTestUnit][General_0] - This method executes before each test unit
+[INFO ][2022-03-09_13:51:46.751][pool-3-thread-1][TestExecutionEventListener.java][globalAfterTestUnitMethodExecutionStarted][General_0] - 
+=> afterTestUnit(context)
+[INFO ][2022-03-09_13:51:46.752][pool-3-thread-1][FeatureRunner.java][afterTestUnit][General_0] - This method executes after each test unit
+[INFO ][2022-03-09_13:51:46.752][pool-3-thread-1][TestContext.java][generateUnitTestSummary][General_0] - [PASS]: testUnit_1(context)
+[INFO ][2022-03-09_13:51:46.752][pool-3-thread-1][TestExecutionEventListener.java][printTestUnitPlan][General_0] - *************************************************************************
+Unit Name	: testUnit_2
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.754][pool-3-thread-1][TestExecutionEventListener.java][globalBeforeTestUnitMethodExecutionStarted][General_0] - 
+=> beforeTestUnit(context)
+[INFO ][2022-03-09_13:51:46.754][pool-3-thread-1][FeatureRunner.java][beforeTestUnit][General_0] - This method executes before each test unit
+[INFO ][2022-03-09_13:51:46.754][pool-3-thread-1][TestExecutionEventListener.java][globalAfterTestUnitMethodExecutionStarted][General_0] - 
+=> afterTestUnit(context)
+[INFO ][2022-03-09_13:51:46.754][pool-3-thread-1][FeatureRunner.java][afterTestUnit][General_0] - This method executes after each test unit
+[INFO ][2022-03-09_13:51:46.754][pool-3-thread-1][TestContext.java][generateUnitTestSummary][General_0] - [PASS]: testUnit_2(context)
+[INFO ][2022-03-09_13:51:46.755][pool-3-thread-1][TestExecutionEventListener.java][globalAfterTestCaseMethodExecutionStarted][General_0] - 
+=> afterTestCase(context)
+[INFO ][2022-03-09_13:51:46.755][pool-3-thread-1][FeatureRunner.java][afterTestCase][General_0] - This method executes after each test case
+[INFO ][2022-03-09_13:51:46.757][pool-3-thread-1][TestContext.java][generateTestSummary][General_0] - 
+Test Result : PASS
+*************************************************************************
+[INFO ][2022-03-09_13:51:46.758][pool-3-thread-1][TestExecutionEventListener.java][afterTestSuiteMethodExecutionStarted][General_0] - 
+=> afterTestSuite(context)
+[INFO ][2022-03-09_13:51:46.759][pool-3-thread-1][FeatureRunner.java][afterTestSuite][General_0] - This method executes after test suite
+[INFO ][2022-03-09_13:51:47.178][pool-3-thread-1][ArtosRunner.java][runTest][General_0] - *************************************************************************
+[TestCases] EXECUTED:2    PASS:2    SKIP:0    KTF:0    FAIL:0    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:0   ]
+[TestUnits] EXECUTED:4    PASS:4    SKIP:0    KTF:0    FAIL:0    [FATAL:0    CRITICAL:0    HIGH:0    MEDIUM:0    LOW:0    UNDEFINED:0   ]
+
+Test start time : 09-03-2022 01:51:46
+Test finish time : 09-03-2022 01:51:46
+Test duration : 0 min, 0 sec
