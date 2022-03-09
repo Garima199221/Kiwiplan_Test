@@ -26,6 +26,7 @@ public class Connct {
 
         if (result.getStderr().isEmpty()) {
             System.out.println(result.getStdout());
+            System.out.println("hello");
         } else {
             System.out.println(result.getStderr());
             System.out.println("hello");
