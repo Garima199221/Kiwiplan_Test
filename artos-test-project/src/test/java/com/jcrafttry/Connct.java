@@ -28,6 +28,7 @@ public class Connct {
             System.out.println(result.getStdout());
         } else {
             System.out.println(result.getStderr());
+            System.out.println("hello");
         }
 
         runner.close();
