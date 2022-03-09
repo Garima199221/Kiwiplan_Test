@@ -7,7 +7,7 @@ public class CalculatorDemo {
 		int c = 342;
 		int d = a + b + c;
 		System.out.println("Addition result = " + d);
-	     
+	     System.out.println("Addition done");
 	   }
 	}
 
