@@ -11,6 +11,7 @@ public class Calculator {
       num2 = reader.nextDouble();
       System.out.print("\nEnter an operator (+, -, *, /): ");
       op = reader.next().charAt(0);
+	 System.out.print("New change ");
       switch(op) {
          case '+': ans = num1 + num2;
             break;
